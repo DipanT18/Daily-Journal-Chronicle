@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Journal - Encrypted Study & Daily Memory Vault",
+  "description": "A privacy-first, end-to-end encrypted daily journal, study writing sanctuary, and memorable moments vault with offline sync, rich editor, mood tracking, and connected app exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
